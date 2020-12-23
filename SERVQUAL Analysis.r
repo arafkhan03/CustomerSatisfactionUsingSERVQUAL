@@ -12,7 +12,7 @@ library(car)
 
 
 # Read File
-df <- read.xlsx(file = "/Users/araf03/Desktop/SERVQUAL/Data/SERVQUAL-Raw-Data.xlsx",
+df <- read.xlsx(file = ".../SERVQUAL-Raw-Data.xlsx",
                 sheetIndex = 1)
 
 
